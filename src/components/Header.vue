@@ -7,7 +7,7 @@
     <h1>Poster Shop</h1>
 
     <div class="ninja-image">
-      <img src="@/assets/ninjahead.svg" width="241px" height="152px" />
+      <img src="@/assets/poster.png"/>
     </div>
   </header>
 </template>
