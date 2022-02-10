@@ -1,46 +1,58 @@
 [
     {
         "job": "Austronaut",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
+        "id": "1",
+        "img": "@/assets/char-1.png"
     },
     {
         "job": "Ninja",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
+        "id": "2"
     },
     {
         "job": "Nerd",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
+        "id": "3"
     },
     {
         "job": "Läkare",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
+        "id": "4"
     },
     {
         "job": "Ginattknäppare",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
+        "id": "5"
     },
     {
         "job": "Snorklare",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
+        "id": "6"
     },
     {
         "job": "Clown",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
+        "id": "7"
     },
     {
         "job": "Polis",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
+        "id": "8"
     },
     {
         "job": "Fe",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
+        "id": "9"
     },
     {
         "job": "Fotograf",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
+        "id": "10"
     },
     {
         "job": "Personlig tränare",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc."
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
+        "id": "11"
     }
 ]
