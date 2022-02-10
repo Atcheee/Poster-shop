@@ -4,8 +4,6 @@
       <img src="@/assets/navicon.svg" width="30px" height="30px" />
     </div>
 
-    <h1>Poster Shop</h1>
-
     <div class="ninja-image">
       <img src="@/assets/poster.png"/>
     </div>
