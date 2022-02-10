@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <h1>Home page</h1>
+    <h1>Poster Shop</h1>
+    <p>Buy posters here</p>
   </div>
 </template>
