@@ -1,6 +1,5 @@
 <template>
   <div class="home">
-    <Header />
     <router-link
       :to="'/Home/' + poster.id"
       v-for="poster in posters"
@@ -8,16 +7,14 @@
     >
       <SinglePoster />
     </router-link>
-    <Footer />
   </div>
 </template>
 
 <script>
-import Header from "@/components/Header.vue";
 import SinglePoster from "@/components/Poster.vue";
-import Footer from "@/components/Footer.vue";
+
 export default {
-  components: { Header, SinglePoster, Footer },
+  components: { SinglePoster },
   computed: {
     posters() {
       return this.$store.state.Posters;
