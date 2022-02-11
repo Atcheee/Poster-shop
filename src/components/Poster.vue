@@ -1,22 +1,17 @@
 <template>
   <div>
-    <h1>Single Poster View</h1>
-    <!-- <SinglePoster /> -->
+    <section v-for="poster in posters" :key="poster.id">
       <img :src="require(`../assets/char-${poster.id}.png`)" alt="Poster" />
       <h1>{{ poster.job }}</h1>
+    </section>
   </div>
 </template>
 
 <script>
-// import SinglePoster from "@/components/Poster.vue";
 export default {
-  // components: { SinglePoster },
   computed: {
     posters() {
       return this.$store.state.Posters;
-    },
-    poster() {
-      return this.posters.find((posters) => posters.id === this.$route.params.id);
     },
   },
 };
@@ -26,10 +21,16 @@ export default {
 * {
   background-color: black;
 }
+img {
+  width: 200px;
+  padding-top: 40px;
+}
+section {
+  display: grid;
+  justify-content: center;
+}
 h1 {
   color: white;
 }
-img {
-  width: 200px;
-}
+
 </style>
