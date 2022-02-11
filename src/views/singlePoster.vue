@@ -1,16 +1,14 @@
 <template>
   <div>
     <h1>Single Poster View</h1>
-    <!-- <SinglePoster /> -->
       <img :src="require(`../assets/char-${poster.id}.png`)" alt="Poster" />
       <h1>{{ poster.job }}</h1>
+
   </div>
 </template>
 
 <script>
-// import SinglePoster from "@/components/Poster.vue";
 export default {
-  // components: { SinglePoster },
   computed: {
     posters() {
       return this.$store.state.Posters;
