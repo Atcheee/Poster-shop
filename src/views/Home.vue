@@ -12,13 +12,15 @@
       <img :src="poster.img" alt="Poster" />
       <h1>{{ poster.job }}</h1>
     </router-link>
+    <Footer />
   </div>
 </template>
 
 <script>
 import Header from "@/components/Header.vue";
+import Footer from '@/components/Footer.vue'
 export default {
-  components: { Header },
+  components: { Header, Footer },
   computed: {
     posters() {
       return this.$store.state.Posters;
@@ -32,6 +34,7 @@ export default {
   color: white;
   text-decoration: none;
   margin: 0;
+  background-color: black;
 }
 img {
   width: 100%;
