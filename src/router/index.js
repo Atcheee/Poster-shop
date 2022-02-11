@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 
 import Home from '../views/Home.vue'
+import SinglePoster from '../views/singlePoster.vue'
 
 Vue.use(VueRouter)
 
@@ -14,8 +15,8 @@ const routes = [
   },
   {
     path: '/Home/:id',
-    name: 'Home',
-    component: Home,
+    name: 'Single Poster',
+    component: SinglePoster,
   },
 
 ]
