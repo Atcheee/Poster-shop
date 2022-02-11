@@ -6,12 +6,13 @@
       </router-link>
     </div>
     <router-view/>
+    <Footer/>
   </div>
 </template>
 
-<style>
-* {
-  background-color: black;
-  text-decoration: none;
+<script>
+import Footer from '@/components/Footer.vue'
+export default {
+  components:{Footer}
 }
-</style>
+
