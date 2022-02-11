@@ -2,14 +2,12 @@
     {
         "job": "Austronaut",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
-        "id": "1",
-        "img": "@/assets/char-1.png"
+        "id": "1"
     },
     {
         "job": "Ninja",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id placerat dui. Cras molestie, nisi a feugiat tempor, libero ex aliquet elit, sit amet ultrices est eros in lectus. Aliquam nisl leo, volutpat vel facilisis sit amet, vehicula eget lorem. Donec a elementum magna, et lobortis magna. Nunc nec enim nunc.",
-        "id": "2",
-        "img": "@/assets/char-2.png"
+        "id": "2"
     },
     {
         "job": "Nerd",
